@@ -2,6 +2,7 @@
 
 PL
 
+
 Dwuwymiarowa nieskończona studnia potencjału, paczka falowa
 
 Autorzy:
@@ -34,6 +35,7 @@ Aby rozpocząć działanie programu należy wybrać jedną z dwóch opcji z rozw
    Od tego punktu paczka falowa zaczyna swoją propagacje. Aby przerwać propagacje paczki falowej należy wybrać jedną z opcji "Stany" lub uruchomić kolejną wizualizacje naciskając na dowlny punkt panelu głównego. 
   
 ENG
+
 
 The two-dimensional infinite potential well, wave packet
 Authors:

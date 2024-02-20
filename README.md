@@ -17,15 +17,15 @@ Interfejs graficzny skład się z 4 części:
 - dolny panel, zawierający przyciski, umozliwiający wybór wielu stanów stacjonarnych (nx,ny)
   
   Wizualizacja:
-  - kolor filoetowy określa dodatnie wartości Ѱ(x,y,t) (w strone od ekranu)
-  - kolor zółty określa dodatnie wartości Ѱ(x,y,t) (w strone do ekranu)
+  - kolor fioletowy określa dodatnie wartości Ѱ(x,y,t) (w strone od ekranu)
+  - kolor żółty określa dodatnie wartości Ѱ(x,y,t) (w strone do ekranu)
 
 Aby rozpocząć działanie programu należy wybrać jedną z dwóch opcji z rozwijanej listy "Stany".
 *  Wybór stanów stacjonarnych, odblokowuje prawy panel oraz blokuje panel dolny. Zmiana wartości nx oraz ny powoduje zmiane wybranego stanu stacjonarnego. Ewolucja tego stanu jest następnie przedstawiona na panelu głownym.
    Zmiany stanów są możliwe podczas trwania wizualizacji.
    
-*  Wybór stanów niestacjonarnych , odblokowuje dolny panel i blokuje panel prawy. Wybór kilku stanów stacjonarnych z panelu dolnego powoduje stworzenie stanu niestacjonarego, będącego superpozycją wybranych stanów.
-   Ewolucja takiego stanu jest przedstawiona na panelu głowynym. Zmiany stanów są możliwe podczas trwania wizualizacji.
+*  Wybór stanów niestacjonarnych , odblokowuje dolny panel i blokuje panel prawy. Wybór kilku stanów stacjonarnych z panelu dolnego powoduje utworzenie stanu niestacjonarego, będącego superpozycją wybranych stanów.
+   Ewolucja takiego stanu jest przedstawiona na panelu główynym. Zmiany stanów są możliwe podczas trwania wizualizacji.
    Opcja stany niestacjonarne umożliwia również wizualizacje paczki falowej. Aby taką wizualizacje uruchomić należy nacisnąć w dowlony punkt znajdujący się na panelu głównym.
    Od tego punktu paczka falowa zaczyna swoją propagacje. Aby przerwać propagacje paczki falowej należy wybrać jedną z opcji "Stany" lub uruchomić kolejną wizualizacje naciskając na dowlny punkt panelu głównego. 
   

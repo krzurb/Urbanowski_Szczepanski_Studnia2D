@@ -1,10 +1,11 @@
 # Urbanowski_Szczepanski_Studnia2D
-Studnia2D, paczka falowa
+
+PL
+
+Dwuwymiarowa nieskończona studnia potencjału, paczka falowa
 Autorzy:
 Krzysztof Urbanowski
-Aleksander Szczepański
-
-PL 
+Aleksander Szczepański 
 
 Program umożliwiający wizualizację stanów stacjonarnych, niestacjonarnych oraz propagacji paczki falowej (opcja dodatkowa) w dwuwymiarowej nieskończonej studni
 potencjału.
@@ -33,6 +34,12 @@ Aby rozpocząć działanie programu należy wybrać jedną z dwóch opcji z rozw
    Od tego punktu paczka falowa zaczyna swoją propagacje. Aby przerwać propagacje paczki falowej należy wybrać jedną z opcji "Stany" lub uruchomić kolejną wizualizacje naciskając na dowlny punkt panelu głównego. 
   
 ENG
+
+The two-dimensional infinite potential well, wave packet
+Authors:
+Krzysztof Urbanowski
+
+Aleksander Szczepański 
 
 A program enabling visualization of stationary, non-stationary states, and wave packet propagation (optional) in a two-dimensional infinite potential well.
 

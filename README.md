@@ -17,6 +17,7 @@ Interfejs graficzny skład się z 4 części:
     - suwak do zmiany wartości głownej liczby kwantowej dla osi X (nx)
     - suwak do zmiany wartości głownej liczby kwantowej dla osi Y (ny)
 - dolny panel, zawierający przyciski, umozliwiający wybór wielu stanów stacjonarnych (nx,ny)
+
   
   Wizualizacja:
   - kolor fioletowy określa dodatnie wartości Ѱ(x,y,t) (w strone od ekranu)
@@ -47,10 +48,12 @@ The graphical interface consists of four parts:
    - Slider to change the principal quantum number value for the Y-axis (ny)
 - The bottom panel containing buttons allowing the selection of multiple stationary states (nx, ny).
 
+
 Visualization:
 
 - Purple color represents positive values of ψ(x, y, t) (towards the viewer).
 - Yellow color represents positive values of ψ(x, y, t) (away from the viewer).
+
 To start the program, choose one of the two options from the dropdown list "States."
 
 * Selecting stationary states unlocks the right panel and locks the bottom panel. Changing the values of nx and ny modifies the selected stationary state. The evolution of this state is then displayed on the main panel. Changes in states are possible during visualization.

@@ -3,8 +3,10 @@
 PL
 
 Dwuwymiarowa nieskończona studnia potencjału, paczka falowa
+
 Autorzy:
 Krzysztof Urbanowski
+
 Aleksander Szczepański 
 
 Program umożliwiający wizualizację stanów stacjonarnych, niestacjonarnych oraz propagacji paczki falowej (opcja dodatkowa) w dwuwymiarowej nieskończonej studni

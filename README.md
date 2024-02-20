@@ -38,6 +38,7 @@ ENG
 
 
 The two-dimensional infinite potential well, wave packet
+
 Authors:
 Krzysztof Urbanowski, Aleksander Szczepański 
 

@@ -39,6 +39,7 @@ ENG
 
 The two-dimensional infinite potential well, wave packet
 Authors:
+
 Krzysztof Urbanowski, Aleksander Szczepański 
 
 A program enabling visualization of stationary, non-stationary states, and wave packet propagation (optional) in a two-dimensional infinite potential well.

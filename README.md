@@ -5,9 +5,7 @@ PL
 Dwuwymiarowa nieskończona studnia potencjału, paczka falowa
 
 Autorzy:
-Krzysztof Urbanowski
-
-Aleksander Szczepański 
+Krzysztof Urbanowski, Aleksander Szczepański 
 
 Program umożliwiający wizualizację stanów stacjonarnych, niestacjonarnych oraz propagacji paczki falowej (opcja dodatkowa) w dwuwymiarowej nieskończonej studni
 potencjału.
@@ -39,9 +37,7 @@ ENG
 
 The two-dimensional infinite potential well, wave packet
 Authors:
-Krzysztof Urbanowski
-
-Aleksander Szczepański 
+Krzysztof Urbanowski, Aleksander Szczepański 
 
 A program enabling visualization of stationary, non-stationary states, and wave packet propagation (optional) in a two-dimensional infinite potential well.
 

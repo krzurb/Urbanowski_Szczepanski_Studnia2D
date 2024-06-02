@@ -10,11 +10,11 @@ Krzysztof Urbanowski, Aleksander Szczepański
 
 Program składa się z 3 plików:
 
-Prostokat.java - definicja klasy o zmiennych: x,y,z,
+- Prostokat.java - definicja klasy o zmiennych: x,y,z,
 
-Rys.java - kod odpowiedzialny za wizualiazacje (zawiera funkcje main),
+- Rys.java - kod odpowiedzialny za wizualiazacje (zawiera funkcje main),
 
-Kwanty.java - interfejs użytkownika.
+- Kwanty.java - interfejs użytkownika.
 
 Uruchomienie pliku Rys.java rozpoczyna pracę programu.
 
@@ -55,9 +55,13 @@ Krzysztof Urbanowski, Aleksander Szczepański
 
 The program consists of 3 files:
 
-Prostokat.java: Definition of a class with variables x, y, z.
-Rys.java: Code responsible for visualization (contains the main function).
-Kwanty.java: User interface.
+-Prostokat.java: Definition of a class with variables x, y, z,
+
+- Rys.java: Code responsible for visualization (contains the main function),
+
+- Kwanty.java: User interface.
+
+
 Running the Rys.java file starts the program.
 
 

@@ -55,7 +55,7 @@ Krzysztof Urbanowski, Aleksander Szczepański
 
 The program consists of 3 files:
 
--Prostokat.java: Definition of a class with variables x, y, z,
+- Prostokat.java: Definition of a class with variables x, y, z,
 
 - Rys.java: Code responsible for visualization,
 

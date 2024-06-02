@@ -9,7 +9,15 @@ Autorzy:
 Krzysztof Urbanowski, Aleksander Szczepański 
 
 Program składa się z 3 plików:
-Prostokat.java - definicja klasy 
+
+Prostokat.java - definicja klasy o zmiennych: x,y,z,
+
+Rys.java - kod odpowiedzialny za wizualiazacje (zawiera funkcje main),
+
+Kwanty.java - interfejs użytkownika.
+
+Uruchomienie pliku Rys.java rozpoczyna pracę programu.
+
 
 Program umożliwiający wizualizację stanów stacjonarnych, niestacjonarnych oraz propagacji paczki falowej (opcja dodatkowa) w dwuwymiarowej nieskończonej studni
 potencjału.
@@ -44,6 +52,14 @@ The two-dimensional infinite potential well, wave packet
 
 Authors:
 Krzysztof Urbanowski, Aleksander Szczepański 
+
+The program consists of 3 files:
+
+Prostokat.java: Definition of a class with variables x, y, z.
+Rys.java: Code responsible for visualization (contains the main function).
+Kwanty.java: User interface.
+Running the Rys.java file starts the program.
+
 
 A program enabling visualization of stationary, non-stationary states, and wave packet propagation (optional) in a two-dimensional infinite potential well.
 

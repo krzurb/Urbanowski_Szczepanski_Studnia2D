@@ -12,11 +12,11 @@ Program składa się z 3 plików:
 
 - Prostokat.java - definicja klasy o zmiennych: x,y,z,
 
-- Rys.java - kod odpowiedzialny za wizualiazacje (zawiera funkcje main),
+- Rys.java - kod odpowiedzialny za wizualiazacje,
 
-- Kwanty.java - interfejs użytkownika.
+- Kwanty.java - interfejs użytkownika (zawiera funkcje main).
 
-Uruchomienie pliku Rys.java rozpoczyna pracę programu.
+Uruchomienie pliku Kwanty.java rozpoczyna pracę programu.
 
 
 Program umożliwiający wizualizację stanów stacjonarnych, niestacjonarnych oraz propagacji paczki falowej (opcja dodatkowa) w dwuwymiarowej nieskończonej studni
@@ -57,12 +57,12 @@ The program consists of 3 files:
 
 -Prostokat.java: Definition of a class with variables x, y, z,
 
-- Rys.java: Code responsible for visualization (contains the main function),
+- Rys.java: Code responsible for visualization,
 
-- Kwanty.java: User interface.
+- Kwanty.java: User interface  (contains the main function).
 
 
-Running the Rys.java file starts the program.
+Running the Kwanty.java file starts the program.
 
 
 A program enabling visualization of stationary, non-stationary states, and wave packet propagation (optional) in a two-dimensional infinite potential well.

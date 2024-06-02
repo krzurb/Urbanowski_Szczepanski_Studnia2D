@@ -69,7 +69,7 @@ A program enabling visualization of stationary, non-stationary states, and wave 
 
 The graphical interface consists of four parts:
 
-- A dropdown list "States" with the following options:
+- A dropdown list (pl. "Stany") with the following options:
     - Stationary States
     - Non-stationary States
 - The central panel displaying visualizations.
@@ -85,7 +85,7 @@ Visualization:
 - Purple color represents positive values of ψ(x, y, t) (towards the viewer).
 - Yellow color represents positive values of ψ(x, y, t) (away from the viewer).
 
-To start the program, choose one of the two options from the dropdown list "States."
+To start the program, choose one of the two options from the dropdown list (pl. "Stany").
 
 * Selecting stationary states unlocks the right panel and locks the bottom panel. Changing the values of nx and ny modifies the selected stationary state. The evolution of this state is then displayed on the main panel. Changes in states are possible during visualization.
 

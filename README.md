@@ -10,13 +10,13 @@ Krzysztof Urbanowski, Aleksander Szczepański
 
 Program składa się z 4 plików:
 
-- "Prostokat.java" - definicja klasy o zmiennych: x,y,z,
+- "Prostokat.java": definicja klasy o zmiennych: x,y,z,
 
-- "Rys.java" - kod odpowiedzialny za wizualiazacje,
+- "Rys.java": kod odpowiedzialny za wizualiazacje,
 
-- "Kwanty.java" - interfejs użytkownika (zawiera funkcje main),
+- "Kwanty.java": interfejs użytkownika (zawiera funkcje main),
 
-- "2D_Qunatum_Well.jar" - wykonywalny plik JAR.
+- "2D_Qunatum_Well.jar": wykonywalny plik JAR.
 
 Uruchomienie pliku "2D_Qunatum_Well.jar" rozpoczyna pracę programu.
 
@@ -57,11 +57,11 @@ Krzysztof Urbanowski, Aleksander Szczepański
 
 The program consists of 3 files:
 
-- Prostokat.java: Definition of a class with variables x, y, z,
+- "Prostokat.java": Definition of a class with variables x, y, z,
 
-- Rys.java: Code responsible for visualization,
+- "Rys.java": Code responsible for visualization,
 
-- Kwanty.java: User interface  (contains the main function),
+- "Kwanty.java": User interface  (contains the main function),
 
 - "2D_Quantum_Well.jar" - executable JAR file.
 

@@ -8,15 +8,17 @@ Dwuwymiarowa nieskończona studnia potencjału, paczka falowa
 Autorzy:
 Krzysztof Urbanowski, Aleksander Szczepański 
 
-Program składa się z 3 plików:
+Program składa się z 4 plików:
 
-- Prostokat.java - definicja klasy o zmiennych: x,y,z,
+- "Prostokat.java" - definicja klasy o zmiennych: x,y,z,
 
-- Rys.java - kod odpowiedzialny za wizualiazacje,
+- "Rys.java" - kod odpowiedzialny za wizualiazacje,
 
-- Kwanty.java - interfejs użytkownika (zawiera funkcje main).
+- "Kwanty.java" - interfejs użytkownika (zawiera funkcje main),
 
-Uruchomienie pliku Kwanty.java rozpoczyna pracę programu.
+- "2D_Qunatum_Well.jar" - wykonywalny plik JAR.
+
+Uruchomienie pliku "2D_Qunatum_Well.jar" rozpoczyna pracę programu.
 
 
 Program umożliwiający wizualizację stanów stacjonarnych, niestacjonarnych oraz propagacji paczki falowej (opcja dodatkowa) w dwuwymiarowej nieskończonej studni
@@ -59,10 +61,11 @@ The program consists of 3 files:
 
 - Rys.java: Code responsible for visualization,
 
-- Kwanty.java: User interface  (contains the main function).
+- Kwanty.java: User interface  (contains the main function),
 
+- "2D_Quantum_Well.jar" - executable JAR file.
 
-Running the Kwanty.java file starts the program.
+Running the file "2D_Quantum_Well.jar" starts the program.
 
 
 A program enabling visualization of stationary, non-stationary states, and wave packet propagation (optional) in a two-dimensional infinite potential well.

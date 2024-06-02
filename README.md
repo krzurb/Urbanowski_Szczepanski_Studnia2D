@@ -8,6 +8,9 @@ Dwuwymiarowa nieskończona studnia potencjału, paczka falowa
 Autorzy:
 Krzysztof Urbanowski, Aleksander Szczepański 
 
+Program składa się z 3 plików:
+Prostokat.java - definicja klasy 
+
 Program umożliwiający wizualizację stanów stacjonarnych, niestacjonarnych oraz propagacji paczki falowej (opcja dodatkowa) w dwuwymiarowej nieskończonej studni
 potencjału.
 Interfejs graficzny skład się z 4 części:
